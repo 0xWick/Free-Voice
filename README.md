@@ -28,5 +28,6 @@ Each Syndicate has a secret Room (shhhh!). But only members can see and meet in 
 `-> Lighthouse SDK:` Everything you need for secret, secure and decentralized file sharing in the Web3 Space. And the cherries(plural) on top were their "Access Control Features". Users can "Token Gate" files shared and only those who "satisfy that On-Chain Condition" can access the file.
 
 ## Our Hacky Thing: 
--> The way we posted integrated PUSH Notification channels into each NFT contract that every new Syndicate Founder will deploy.
--> TokenGating Secret Meeting Rooms
+-> The way we posted integrated `PUSH Notification` channels into each NFT contract that every new Syndicate Founder will deploy.
+
+-> `TokenGating Secret Meeting Rooms`
