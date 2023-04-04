@@ -18,3 +18,8 @@ Also, Syndicate members can share secret data using (lighthouse SDK) Ninja Shari
 ## Secret Meeting Rooms:
 Each Syndicate has a secret Room (shhhh!). But only members can see and meet in that room. Just like Old School Secret Organizations. Using Huddle01 SDK, they can chat, share files, hold live meetings with cam, even record it and save on IPFS.
 
+## Technologies:
+`-> Filecoin/IPFS:` Being used to store On-chain Images, thanks to their robust economic models anyone can take advantage of the best storage network.
+-> Huddle01 SDK: Best sdk we used for building our secret meeting rooms, will add NFT gating as soon as they launch it. For now, we are using our own hack to NFT-gate the meeting rooms.
+`-> Push Notifications:` On-Chain Notifications using their testnet interface. Users who want to join a Syndicate get a notification when they receive an invite from the Founder of Syndicate. They can check their notifications with Channel Name. And join the Syndicate as soon as they get a Ping(or Push XD) in their Notifications Tab.
+`-> Lighthouse SDK:` Everything you need for secret, secure and decentralized file sharing in the Web3 Space. And the cherries(plural) on top were their "Access Control Features". Users can "Token Gate" files shared and only those who "satisfy that On-Chain Condition" can access the file.
